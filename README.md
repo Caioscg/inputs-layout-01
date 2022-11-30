@@ -16,7 +16,7 @@ A simple development of a event creation.
 <br>
 
 <p align="center">
-  <img src="./.github/preview.jpg" alt="" width="100%">
+  <img src="./.github/preview.jfif" alt="" width="100%">
 </p>
 
 ## 💻 Technologies
@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 🌐 Site
 
-You can check the project with this link: https://rocket-sect-zeta.vercel.app
+You can check the project with this link: https://event-creator.vercel.app
 
 ## :memo: License
 
